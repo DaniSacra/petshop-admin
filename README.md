@@ -1,6 +1,6 @@
 # PET SHOP ADMIN
 
-"Are we going to play Secret Santa this year?" This app simulates a sort between friends then they can play secret santa. Built with Rails and Ajax.
+An administrative App for manageing a Pet Shop. Built with Ruby on Rails and Ajax.
 
 ## Ruby version
 
