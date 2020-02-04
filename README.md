@@ -1,24 +1,39 @@
-# README
+# PET SHOP ADMIN
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"Are we going to play Secret Santa this year?" This app simulates a sort between friends then they can play secret santa. Built with Rails and Ajax.
 
-Things you may want to cover:
+## Ruby version
 
-* Ruby version
+Ruby 
+- v 2.5.1
 
-* System dependencies
+Rails
+- v 5.2.0
 
-* Configuration
+PostgreSQL
+- v 2.0
 
-* Database creation
+### External services (SaaS)
 
-* Database initialization
+Digital Ocean: digitalocean.com
 
-* How to run the test suite
+Codeship: http://codeship.com/
 
-* Services (job queues, cache servers, search engines, etc.)
+Sendgrid: https://sendgrid.com
 
-* Deployment instructions
+GoDaddy: http://godaddy.com
 
-* ...
+Cloudflare: http://cloudflare.com
+
+### How to install this App
+
+Clone or fork
+
+    $ bundle install
+
+    $ rails db:create db:migrate
+
+    $ rails s
+
+### Configuration
+
