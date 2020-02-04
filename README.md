@@ -2,16 +2,13 @@
 
 An administrative App for manageing a Pet Shop. Built with Ruby on Rails and Ajax.
 
-## Ruby version
+## Dependencies versions
 
-Ruby 
-- v 2.5.1
+- Ruby v2.5.1
 
-Rails
-- v 5.2.0
+- Rails v5.2.0
 
-PostgreSQL
-- v 2.0
+- PostgreSQL v2.0
 
 ### External services (SaaS)
 
