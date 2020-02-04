@@ -12,19 +12,11 @@ An administrative App for manageing a Pet Shop. Built with Ruby on Rails and Aja
 
 ### External services (SaaS)
 
-Digital Ocean: digitalocean.com
-
-Codeship: http://codeship.com/
-
-Sendgrid: https://sendgrid.com
-
-GoDaddy: http://godaddy.com
-
-Cloudflare: http://cloudflare.com
+FAE Admin
 
 ### How to install this App
 
-Clone or fork
+Clone or fork then run following:
 
     $ bundle install
 
